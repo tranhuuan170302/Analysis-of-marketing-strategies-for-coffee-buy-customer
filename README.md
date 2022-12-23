@@ -22,4 +22,4 @@ I used the language Python to analyze the dataset. I used some libraries availab
 * File powerPoint: file using to report.</br>
 * File power BI: This file to see in detail.[Link](https://app.powerbi.com/groups/me/reports/2764ecee-32e8-44a7-9250-933ae7312c66/ReportSection)<br/>
 ## 3. Visualization overview.
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/tranhuuan170302/Analysis-of-marketing-strategies-for-coffee-buy-customer/blob/main/powerBI.jpg)
